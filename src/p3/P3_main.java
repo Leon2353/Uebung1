@@ -23,6 +23,8 @@ public class P3_main {
 			System.out.print("C");
 
 		}
+		
+		//Insgesamt 8 Ausgaben möglich
 
 	}
 
